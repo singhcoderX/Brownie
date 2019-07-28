@@ -4,9 +4,13 @@ CodeFunDo++
 Outline:-
 We are planning to build a web portal which 1. gives end user information about the candidates ,in order to help them make the right decisions.2. Also this portal will contain a e-voting service for students studying in colleges far away from their respective constituencies .
 The aspects we are developing are :
-Security by using Azure blockchain to update our data sets.
-Reliability by enabling eligible youth to vote which generally miss the voting.
-Transparency by showing the students, the number of votes their constituencies candidates gets .  
+
+1.Security by using Azure blockchain to update our data sets.
+
+2.Reliability by enabling eligible youth to vote which generally miss the voting.
+
+3.Transparency by showing the students, the number of votes their constituencies candidates gets .  
+
 All this would be in support to current voting system thus increasing the availability of model.
 
 Working:-
@@ -28,11 +32,12 @@ For students voting from colleges, they have register on portal with their voter
 
 Following datasets will be used:-
 The details  of candidates which contain:
-The promises made vs promises kept
-Attendance in house
-Criminal records 
-Fund utilisation
-Questions asked in the house
+The promises made vs promises kept,
+Attendance in house,
+Criminal records ,
+Fund utilisation,
+Questions asked in the house,
+
 A data set of Aadhar card(containing fingerprints) and voter ID card to validate the students.
 
 Technology we would be using:-
