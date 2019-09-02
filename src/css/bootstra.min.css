@@ -1,0 +1,32 @@
+img.bg {
+    max-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+@media screen and (max-width: 1024px){
+    img.bg {
+    left: 50%;
+    margin-left: -512px; }
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: relative;
+  top: 140px;
+  left: 51%;
+  transform: translate(-50%, -50%);
+}
+
+mark { 
+  background-color: orange;
+  color: black;
+}
