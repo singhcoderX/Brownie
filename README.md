@@ -1,6 +1,7 @@
 # Brownie
 CodeFunDo++
 
+Demo Video->https://www.youtube.com/watch?v=mRBCSnK91Ew
 Outline:-
 We are planning to build a web portal which 1. gives end user information about the candidates ,in order to help them make the right decisions.2. Also this portal will contain a e-voting service for students studying in colleges far away from their respective constituencies .
 The aspects we are developing are :
@@ -41,7 +42,7 @@ Questions asked in the house,
 A data set of Aadhar card(containing fingerprints) and voter ID card to validate the students.
 
 Technology we would be using:-
-Azure blockchain,Html,Css,Bootstrap Framework,R language and libraries,Api’s for datasets,Solidity language etc
+Azure blockchain,Html,Css,Solidity language etc
 
 
 
